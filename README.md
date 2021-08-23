@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @finn-bains
+- 👀 I’m interested in too many things
+- 🌱 I’m currently learning Python and HTML
+- 💞️ I’m looking to collaborate on nothing, I don't think I would be of help
+- 📫 you can reach me at FinnBains@pm.me
